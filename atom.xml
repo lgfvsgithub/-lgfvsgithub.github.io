@@ -3,11 +3,11 @@
   <title>Rise🥝</title>
   
   
-  <link href="https://risenow.cn/atom.xml" rel="self"/>
+  <link href="https://www.fomal.cc/atom.xml" rel="self"/>
   
-  <link href="https://risenow.cn/"/>
-  <updated>2024-05-14T13:58:01.879Z</updated>
-  <id>https://risenow.cn/</id>
+  <link href="https://www.fomal.cc/"/>
+  <updated>2024-05-14T14:53:54.809Z</updated>
+  <id>https://www.fomal.cc/</id>
   
   <author>
     <name>Rise🥝</name>
@@ -17,9 +17,22 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>博客装修</title>
+    <link href="https://www.fomal.cc/posts/35825f36.html"/>
+    <id>https://www.fomal.cc/posts/35825f36.html</id>
+    <published>2024-05-14T14:53:54.000Z</published>
+    <updated>2024-05-14T14:53:54.809Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>博客建立</title>
-    <link href="https://risenow.cn/posts/1628c517.html"/>
-    <id>https://risenow.cn/posts/1628c517.html</id>
+    <link href="https://www.fomal.cc/posts/1628c517.html"/>
+    <id>https://www.fomal.cc/posts/1628c517.html</id>
     <published>2024-05-14T10:04:46.000Z</published>
     <updated>2024-05-14T13:58:01.879Z</updated>
     
@@ -43,8 +56,8 @@
   
   <entry>
     <title>Markdown语法与外挂标签写法汇总</title>
-    <link href="https://risenow.cn/posts/2013454d.html"/>
-    <id>https://risenow.cn/posts/2013454d.html</id>
+    <link href="https://www.fomal.cc/posts/2013454d.html"/>
+    <id>https://www.fomal.cc/posts/2013454d.html</id>
     <published>2022-08-09T10:19:03.000Z</published>
     <updated>2022-10-23T14:00:00.000Z</updated>
     
@@ -55,12 +68,12 @@
     
     
     
-    <category term="演示" scheme="https://risenow.cn/categories/%E6%BC%94%E7%A4%BA/"/>
+    <category term="演示" scheme="https://www.fomal.cc/categories/%E6%BC%94%E7%A4%BA/"/>
     
     
-    <category term="Markdown" scheme="https://risenow.cn/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://www.fomal.cc/tags/Markdown/"/>
     
-    <category term="外挂标签" scheme="https://risenow.cn/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
+    <category term="外挂标签" scheme="https://www.fomal.cc/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
     
   </entry>
   

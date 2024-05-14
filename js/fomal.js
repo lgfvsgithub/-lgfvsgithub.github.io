@@ -2986,7 +2986,7 @@ function setUniverse() {
 
 // 雪花开关
 if (localStorage.getItem("snow") == undefined) {
-  localStorage.setItem("snow", "none");
+  localStorage.setItem("snow", "block");
 }
 document.getElementById("snow").style.display = localStorage.getItem("snow");
 function setSnow() {
@@ -3174,10 +3174,10 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/dm14.webp);
-    --darkmode-bg:url(https://lskypro.acozycotage.net/Fomalhaut/img/yuanshen1.webp);
-    --mobileday-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/snow.webp);
-    --mobilenight-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/mb8.webp);
+    --default-bg: url(https://tuchuang.voooe.cn/images/2024/05/14/155db1b9d27031e6924e5523e4b6fd13.png);
+    --darkmode-bg:url(https://tuchuang.voooe.cn/images/2024/05/14/day.png);
+    --mobileday-bg: url(https://tuchuang.voooe.cn/images/2024/05/14/1.png);
+    --mobilenight-bg: url(https://tuchuang.voooe.cn/images/2024/05/14/mobile.png);
   }`;
 }
 // 切换背景主函数
@@ -3404,10 +3404,10 @@ function createWinbox() {
 <h2>四、背景设置</h2>
 <center><button onclick="resetBg()" style="background:var(--theme-color);display:block;width:35%;padding:15px 0;border-radius:30px;color:white;"><i class="fa-solid fa-arrows-rotate"></i>&nbsp;恢复默认背景</button></center>
 
-<h3>1. 二次元</h3>
-<details class="folding-tag" cyan><summary> 查看二次元背景 </summary>
+<h3>1. 动漫</h3>
+<details class="folding-tag" cyan><summary> 查看动漫背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://lskypro.acozycotage.net/Fomalhaut/img/home_bg.webp)" class="imgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/home_bg.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2024/05/14/1.png)" class="imgbox" onclick="changeBg('url(https://tuchuang.voooe.cn/images/2024/05/14/1.png)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2024/05/14/442d610890fe2a3dccd618add0d29af7.png)" class="imgbox" onclick="changeBg('url(https://tuchuang.voooe.cn/images/2024/05/14/442d610890fe2a3dccd618add0d29af7.png)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2024/05/14/2.png)" class="imgbox" onclick="changeBg('url(https://tuchuang.voooe.cn/images/2024/05/14/2.png)')"></a></div>
               </div>
             </details>
 
@@ -3416,15 +3416,15 @@ function createWinbox() {
 
 <details class="folding-tag" cyan><summary> 查看风景背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://lskypro.acozycotage.net/Fomalhaut/img/fj1.webp)" class="imgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/fj1.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2024/05/14/65672963b2fc289df9ae1bd1b18bf2d2.png)" class="imgbox" onclick="changeBg('url(https://tuchuang.voooe.cn/images/2024/05/14/65672963b2fc289df9ae1bd1b18bf2d2.png)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2024/05/14/d68efdcc4ab00edc14181fa0a93f98c4.png)" class="imgbox" onclick="changeBg('url(https://tuchuang.voooe.cn/images/2024/05/14/d68efdcc4ab00edc14181fa0a93f98c4.png)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2024/05/14/155db1b9d27031e6924e5523e4b6fd13.png)" class="imgbox" onclick="changeBg('url(https://tuchuang.voooe.cn/images/2024/05/14/155db1b9d27031e6924e5523e4b6fd13.png)')"></a></div>
               </div>
             </details>
 
-<h3>3. 萌宠</h3>
+<h3>3. 游戏</h3>
 
-<details class="folding-tag" cyan><summary> 查看萌宠背景 </summary>
+<details class="folding-tag" cyan><summary> 查看游戏背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://lskypro.acozycotage.net/Fomalhaut/img/mc1.webp)" class="imgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/mc1.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2024/05/14/0d8f101afdecea1f9d6f01bfdd567984.png)" class="imgbox" onclick="changeBg('url(https://tuchuang.voooe.cn/images/2024/05/14/0d8f101afdecea1f9d6f01bfdd567984.png)')"></a></div>
               </div>
             </details>
 
