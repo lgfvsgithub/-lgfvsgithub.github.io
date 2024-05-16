@@ -4,7 +4,7 @@
   <url>
     <loc>https://risenow.cn/posts/1628c517.html</loc>
     
-    <lastmod>2024-05-15</lastmod>
+    <lastmod>2024-05-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -157,12 +157,26 @@
 
   <url>
     <loc>https://risenow.cn/</loc>
-    <lastmod>2024-05-15</lastmod>
+    <lastmod>2024-05-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>https://risenow.cn/tags/hexo/</loc>
+    <lastmod>2024-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://risenow.cn/categories/blog/</loc>
+    <lastmod>2024-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
